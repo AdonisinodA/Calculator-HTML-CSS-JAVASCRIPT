@@ -3,4 +3,4 @@ Caculator for study
 
 # PARA FINS DE ESTUDOS
 
-![Calculator]((Calculator-HTML-CSS-JAVASCRIPT/calculator.PNG))
+![Calculator](https://github.com/AdonisinodA/Calculator-HTML-CSS-JAVASCRIPT/blob/main/README.md)
